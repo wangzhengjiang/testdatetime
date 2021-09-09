@@ -1,0 +1,7 @@
+{
+  "name": "myAppdatetime",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
